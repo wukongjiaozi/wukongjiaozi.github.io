@@ -51,7 +51,7 @@ body {
 .placeholder {
   width: 100%;
   min-height: 300px;
-  background-color: #556E5B;
+  background-color: #eef3f9;
   background-image: url("title.jpg");
   background-position: center;
   background-size: cover;
@@ -567,7 +567,7 @@ h4 {
   font-size: 2.1rem;
   letter-spacing: -.08rem;
   line-height: 1.35;
-color:#730F7C;
+color:#000000;
 padding-left:10pt;
   padding-right:10pt;
 }
