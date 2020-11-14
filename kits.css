@@ -545,7 +545,7 @@ h1,h2,h3,h4,h5,h6 {
 
 h1 {
   font-size: 4.6rem;
-	color:#000000
+	color:#000000;
   line-height: 1.2;
 
 }
@@ -583,6 +583,7 @@ h5 {
 
 h6 {
   font-size: 1.2rem;
+	color:#000000;
   letter-spacing: -.05rem;
   line-height: 1.2;
   margin-bottom: .5rem;
