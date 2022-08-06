@@ -215,8 +215,10 @@ input[type='submit'].button-clear[disabled]:hover {
 
 .tm-site-title {
     padding-top: 35px;
+    font-family: "kaishu";
     font-size: 3.6rem;
     font-weight: 200;
+    color: #87CEEB;
 }
 
 
