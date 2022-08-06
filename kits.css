@@ -223,8 +223,10 @@ input[type='submit'].button-clear[disabled]:hover {
 
 
 .tm-site-description {
-  font-size: 2.0rem;
+  font-family: "kaishu";
+    font-size: 2.0rem;
   font-weight: 200;
+    color: #87CEEB;
 }
 
 
