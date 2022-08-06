@@ -223,7 +223,7 @@ input[type='submit'].button-clear[disabled]:hover {
 
 
 .tm-site-description {
-  font-family: "楷体";
+  font-family: "楷体","楷体_GB2312";
     font-size: 2.0rem;
   font-weight: 200;
     color: #87CEEB;
